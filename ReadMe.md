@@ -1,9 +1,9 @@
 # Web Calculator App with C++ Backend and SQLite Database and html/csss(tailwind) frontend
 
-**This web application provides a simple calculator interface with a C++ backend that provides 
+** This web application provides a simple calculator interface with a C++ backend that provides 
           basic arithmetic operations and supports complex arithmetic expressions.
-**It features a user-friendly interface built with HTML, CSS (Tailwind CSS), and JavaScript.
-**The backend logic, written in C++ using the Crow micro web framework, handles calculations and stores the results in an SQLite database.
+** It features a user-friendly interface built with HTML, CSS (Tailwind CSS), and JavaScript.
+** The backend logic, written in C++ using the Crow micro web framework, handles calculations and stores the results in an SQLite database.
 
 ## Features
 -Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division.
