@@ -1,8 +1,8 @@
 # Calculator Project
-###Description
+### Description
 Developed a user-friendly calculator using a tech stack that blends the power of C++ for backend processing and SQL for database integration, with a sleek front-end built using HTML/CSS (Tailwind) and JavaScript.
 
-##Technical Skills Acquired .
+## Technical Skills Acquired .
 
 
 **1.C++ :**
