@@ -29,5 +29,4 @@ Developed a user-friendly calculator using a tech stack that blends the power of
 
       
       
-      __________________________________________________________________
-> This project not only resulted in a functional calculator but also provided a comprehensive learning experience in C++ concepts, web development, and database connectivity.
+      ____ This project not only resulted in a functional calculator but also provided a comprehensive learning experience in C++ concepts, web development, and database connectivity_____
